@@ -41,6 +41,6 @@ public class DatePal {
 	}
 
 	public static void main(String[] args) {
-		durchgehen(2000, 2100); 
+		durchgehen(2000, 2100);  
 	}
 }
